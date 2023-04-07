@@ -5,14 +5,13 @@ At the beginning of every data science project, the primary goal is always to lo
 # Data 
 In this small project, I will demonstrate a simple approach to loading 20 CSV files using Python, as opposed to an alternative method like an SSIS package.
 # Loading Files 
-## Python 
-When it comes to the question of how to load a large amount of data, Python makes it simple and straightforward using 'glob'.
 
 <div>
 <img src="https://github.com/Piettro314/Loading-Multiple-Files-In-Python/blob/main/Content/Screenshot%20(103).png" align="center" width="100%">
 </div>
 
-
+## Python 
+When it comes to the question of how to load a large amount of data, Python makes it simple and straightforward using 'glob'.
 ```
 import glob as glob
 import pandas as pd
