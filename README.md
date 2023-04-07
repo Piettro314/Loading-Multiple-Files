@@ -39,4 +39,3 @@ result = pd.concat([pd.read_csv(file) for file in glob.glob(path)], ignore_index
 # Recommended Uses
 The technique of utilizing glob is highly beneficial for rapid analysis of multiple datasets due to its speed and the requirement of minimal code. This means that Exploratory Data Analysis can be performed prior to transitioning to a more robust tool like SSIS for handling all the data preparation tasks with components like for loop containers, data flow tasks, flat file sources, and more.
 
-
