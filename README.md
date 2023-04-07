@@ -8,7 +8,10 @@ In this small project, I will demonstrate a simple approach to loading 20 CSV fi
 ## Python 
 When it comes to the question of how to load a large amount of data, Python makes it simple and straightforward using 'glob'.
 
-Image here
+<div>
+<img src="https://github.com/Piettro314/Loading-Multiple-Files-In-Python/blob/main/Content/Screenshot%20(103).png" align="center" width="100%">
+</div>
+
 
 ```
 import glob as glob
