@@ -3,14 +3,15 @@
 # Preface
 At the beginning of every data science project, the primary goal is always to load datasets. However, when dealing with multiple files, it can often lead to the question of "how do I go about loading all this data?" based on my experience.
 # Data 
-In this small project, I will demonstrate a simple approach to loading 20 CSV files using Python, as opposed to an alternative method like an SSIS package.
+In this small project, I will demonstrate a simple approach to loading 20 CSV [European cities](https://zenodo.org/record/4446043#.Y9Y9ENJBwUE) files using Python, as opposed to an alternative method like an SSIS package.
 # Loading Files 
-
+## Python 
 <div>
-<img src="https://github.com/Piettro314/Loading-Multiple-Files-In-Python/blob/main/Content/Screenshot%20(103).png" align="center" width="100%">
+<img src="https://github.com/Piettro314/Loading-Multiple-Files-In-Python/blob/main/Content/Python.png" align="center" width="100%">
 </div>
 
-## Python 
+---
+
 When it comes to the question of how to load a large amount of data, Python makes it simple and straightforward using 'glob'.
 ```
 import glob as glob
