@@ -28,7 +28,9 @@ result = pd.concat([pd.read_csv(file) for file in glob.glob(path)], ignore_index
 ## SSIS 
 * Another option available in SSIS is the for loop container, which can be used to load and combine multiple files. However, this approach requires a good understanding of the SSIS tool and SQL.
 
-Gif here
+<div>
+<img src="https://github.com/Piettro314/Loading-Multiple-Files-In-Python/blob/main/Content/SSIS%20Loading.gif" align="center">
+</div>
 
 
 # Recommended Uses
