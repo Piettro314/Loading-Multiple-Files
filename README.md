@@ -36,6 +36,7 @@ result = pd.concat([pd.read_csv(file) for file in glob.glob(path)], ignore_index
 
 # Video Explanation
 
+<img src="https://i9.ytimg.com/vi_webp/L_orIT4PpnQ/mq1.webp?sqp=CKyB2aEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgWShlMA8=&rs=AOn4CLCOOUOoguVMuRYfFRFy19DdwWJBaA" align="center" width="100%">
 
 See video link here for explanation
 
