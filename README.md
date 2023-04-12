@@ -10,6 +10,8 @@ In this small project, I will demonstrate a simple approach to loading 20 CSV [E
 
 <img src="https://github.com/Piettro314/Loading-Multiple-Files-In-Python/blob/main/Content/SSIS%20Loading.gif" align="center">
 
+Please refer to the complete project where the entire ETL package was used [AirBnB Project](https://github.com/Piettro314/Data-Visualization--AirBnB-Europe).
+
 ## Python 
 
 <img src="https://github.com/Piettro314/Loading-Multiple-Files-In-Python/blob/main/Content/Python.png" align="center" width="100%">
