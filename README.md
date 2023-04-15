@@ -1,5 +1,7 @@
-<h1 align="center" style="color:MediumSeaGreen;"> <b> Mini Project Loading Multiple Files
+<h1 align="center" style="color:MediumSeaGreen;"> <b> Mini Project Loading Multiple Files</b>
+
 # Preface
+
 At the beginning of every data science project, the primary goal is always to load datasets. However, when dealing with multiple files, it can often lead to the question of "how do I go about loading all this data?" based on my experience.
 # Data 
 In this small project, I will demonstrate a simple approach to loading 20 CSV [European cities](https://zenodo.org/record/4446043#.Y9Y9ENJBwUE) files using SSIS package, as opposed to an alternative method with Python.
